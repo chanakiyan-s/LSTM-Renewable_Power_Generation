@@ -1,5 +1,6 @@
 # Renewable Power Generation and Loss Prediction for Indian Residential Houses Using LSTM and RNN
 
+
 This project presents a robust and efficient framework for forecasting renewable power generation and predicting energy losses in Indian residential houses by leveraging advanced deep learning techniques.
 
 The system integrates historical energy data and environmental parameters to enhance prediction accuracy. Key components include:
